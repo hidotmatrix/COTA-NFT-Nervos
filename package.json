@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@nervina-labs/cota-sdk": "^0.9.2",
+    "@nervosnetwork/ckb-sdk-utils": "^0.109.0"
+  }
+}
